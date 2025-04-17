@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera45
+  - AvatarNetworkingTransform
+  - projectile
+  - FxTemporaire
+  - Bullet
+  - NetworkingTransform
+  - Boundary
+  - VirtualWall
+  - Boundary1
+  - Boundary2
+  - Boundary3
+  - Boundary4
+  - Boundary0
+  - Boundary5
+  - Boundary6
+  - Boundary7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Avatar
+  - Waypoint
+  - 
+  - PhysicalWall
+  - VirtualWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
